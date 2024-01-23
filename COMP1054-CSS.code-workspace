@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/lesson-3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "COMP1054-CSS"
+	}
+}
