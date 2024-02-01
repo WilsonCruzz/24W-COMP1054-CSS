@@ -32,7 +32,7 @@ header{
 }
 footer{
     display: flex;
-    color: rgb(200, 201, 107);
+    color: rgb(27, 165, 156);
     font-size:22px;
     font-family: 'Dancing Script', cursive;
     text-shadow: 2px 2px 4px rgba(0, 0, 0.5, 0.5);
@@ -77,7 +77,7 @@ footer{
 }
 .albumTitle{
     text-align: center;
-    color: rgb(165, 195, 222);
+    color: rgb(27, 165, 156);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     font-family: 'Dancing Script', cursive;
 }
